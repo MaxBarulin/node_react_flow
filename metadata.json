@@ -1,0 +1,5 @@
+{
+  "name": "NodeCalc Flow",
+  "description": "A visual node-based calculator application. Create complex mathematical flows using drag-and-drop nodes for input, arithmetic operations, and result visualization.",
+  "requestFramePermissions": []
+}
